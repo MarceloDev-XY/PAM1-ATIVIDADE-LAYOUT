@@ -8,4 +8,9 @@
     <string name="salvar">Salvar</string>
     <string name="selecione">Selecione</string>
 
+    <string name="dataum">data 1</string>
+    <string name="datadois">data 2</string>
+
+    <string name="bum">b 1</string>
+    <string name="bdois">b 2</string>
 </resources>
